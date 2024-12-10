@@ -1,17 +1,22 @@
 package models;
 
-public class Square extends Shape{
+public class Square extends Shape {
+    private double side;
 
-    private int lado;
-    public int getLado(){return lado;}
-    public void setLado(int lado){this.lado = lado;}
+    public Square(double side){this.side = side;}
 
-    public Square(int lado) {
-        this.lado = lado;
+    public double getSide(){
+        return side;
+    }
+    public void setSide(double side){
+        if (side <= 0) {
+            throw new IllegalArgumentException("Side must be positive.");
+        }
+        this.side = side;
     }
 
     @Override
-    int area() {return lado*lado;}
+    public double area(){return side * side;};
     @Override
-    int perimeter() {return lado * 4;}
+    public double perimeter(){return side * 4;};
 }

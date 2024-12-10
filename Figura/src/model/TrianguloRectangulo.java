@@ -27,7 +27,7 @@ public class TrianguloRectangulo extends Figura {
     }
     @Override
     public double calcularArea() {
-        return base*altura;
+        return base*altura/2;
     }
     @Override
     public double calcularPerimetro() {
