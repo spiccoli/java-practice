@@ -1,10 +1,10 @@
 package model;
 
-class Circulo extends Figura {
+class Circle extends Figura {
     double radio;
 
     // Constructor
-    Circulo(int x, int y, double radio) {
+    Circle(int x, int y, double radio) {
         super(x,y);
         this.radio = radio;
     }

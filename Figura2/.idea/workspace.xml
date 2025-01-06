@@ -5,15 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="e689cfe1-66fa-4fb1-9eda-d8cbd2c13d80" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/untitled/src/models/Circle.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/untitled/src/models/RightTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Figura/src/model/Circulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Figura/src/model/Circulo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Figura/src/model/TrianguloRectangulo.java" beforeDir="false" afterPath="$PROJECT_DIR$/../Figura/src/model/TrianguloRectangulo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/models/Shape.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/models/Shape.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/models/Square.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/models/Square.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/models/Triangle.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -75,7 +68,7 @@
       <workItem from="1733794810702" duration="740000" />
       <workItem from="1733834527396" duration="332000" />
       <workItem from="1733834930328" duration="903000" />
-      <workItem from="1733835854610" duration="4385000" />
+      <workItem from="1733835854610" duration="5851000" />
     </task>
     <servers />
   </component>
