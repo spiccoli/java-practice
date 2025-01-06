@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e689cfe1-66fa-4fb1-9eda-d8cbd2c13d80" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/untitled/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/untitled/src/Main.java" afterDir="false" />
-    </list>
+    <list default="true" id="e689cfe1-66fa-4fb1-9eda-d8cbd2c13d80" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,7 +36,7 @@
     "git-widget-placeholder": "main",
     "ignore.virus.scanning.warn.message": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/santi/Documents/GitHub/Java-practice/Figura2",
+    "last_opened_file_path": "C:/Users/santi/Downloads/guido/lasers",
     "node.js.detected.package.eslint": "true",
     "node.js.detected.package.tslint": "true",
     "node.js.selected.package.eslint": "(autodetect)",
@@ -69,6 +66,7 @@
       <workItem from="1733834527396" duration="332000" />
       <workItem from="1733834930328" duration="903000" />
       <workItem from="1733835854610" duration="5851000" />
+      <workItem from="1736175679177" duration="17000" />
     </task>
     <servers />
   </component>
