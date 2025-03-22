@@ -1,14 +1,27 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="c34179d1-dbe2-479a-b63e-8b7a0d98a4b8" name="Changes" comment="" />
+    <list default="true" id="e8a72480-50eb-4092-b4dc-d129969b5030" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/clase2/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/clase2.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/src/clase2/piccoli/santiago/ej1/Ej1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ej1/Ej1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/src/clase2/piccoli/santiago/ej2/Ej2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ej2/Ej2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/clase2/src/clase2/piccoli/santiago/ej3/Ej3.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/ejercicios/ej3/Ej3.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
   </component>
   <component name="GitHubPullRequestSearchHistory"><![CDATA[{
   "lastFilter": {
@@ -19,14 +32,13 @@
   <component name="GithubPullRequestsUISettings"><![CDATA[{
   "selectedUrlAndAccountId": {
     "url": "https://github.com/spiccoli/java-practice.git",
-    "accountId": "b5b646d9-579c-46fb-891d-9662e95080eb"
+    "accountId": "fa9c2fa3-7209-4663-b514-92934dcd7820"
   }
 }]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 8
+  "associatedIndex": 6
 }]]></component>
-  <component name="ProjectId" id="2ue484i6QVcvQUJHhfaGsFey9g5" />
+  <component name="ProjectId" id="2ueVT0e5tB7aNAVpSbxynNjJcQv" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -40,28 +52,39 @@
     "git-widget-placeholder": "main",
     "go.import.settings.migrated": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/Users/adm/Documents/github/java-practice/prog2/21-03",
+    "last_opened_file_path": "C:/Users/santi/OneDrive/Documents/GitHub/java-practice/21-03",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\santi\OneDrive\Documents\GitHub\java-practice\21-03" />
+      <recent name="C:\Users\santi\OneDrive\Documents\GitHub\java-practice\21-03\ejercicios\src" />
+      <recent name="C:\Users\santi\OneDrive\Documents\GitHub\java-practice\21-03\ejercicios" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-fdfe4dae3a2d-intellij.indexing.shared.core-IU-243.22562.218" />
-        <option value="bundled-js-predefined-d6986cc7102b-deb605915726-JavaScript-IU-243.22562.218" />
+        <option value="bundled-jdk-9823dce3aa75-125ca727e0f0-intellij.indexing.shared.core-IU-243.23654.189" />
+        <option value="bundled-js-predefined-d6986cc7102b-822845ee3bb5-JavaScript-IU-243.23654.189" />
       </set>
     </attachedChunks>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c34179d1-dbe2-479a-b63e-8b7a0d98a4b8" name="Changes" comment="" />
-      <created>1742595544589</created>
+      <changelist id="e8a72480-50eb-4092-b4dc-d129969b5030" name="Changes" comment="" />
+      <created>1742609030896</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1742595544589</updated>
-      <workItem from="1742595546103" duration="15000" />
+      <updated>1742609030896</updated>
+      <workItem from="1742609031979" duration="1137000" />
     </task>
     <servers />
   </component>

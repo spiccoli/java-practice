@@ -1,4 +1,4 @@
-package clase2.piccoli.santiago.ej1;
+package ejercicios.ej1;
 import java.util.Scanner;
 
 public class Ej1 {

@@ -4,7 +4,7 @@
 //        Se requiere realizar cada cálculo en una función que reciba los numeros por parámetro y devuelva el resultado.
 //        Se requiere mostrar los resultados por consola en una función que reciba los resultados por parámetro y los muestre junto al mensaje.
 
-package clase2.piccoli.santiago.ej3;
+package ejercicios.ej3;
 import java.util.Scanner;
 
 public class Ej3 {
@@ -38,8 +38,6 @@ public class Ej3 {
         mostrarResultadosParcial(suma, resta, multiplicacion);
         System.out.println("Division: " + division);
     }
-
-
 
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);

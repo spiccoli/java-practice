@@ -1,5 +1,5 @@
 //Realizar un programa que muestre por consola todos los números multiplos de 2 y múltiplos de 4 comprendidos entre el 0 y 40.
-package clase2.piccoli.santiago.ej2;
+package ejercicios.ej2;
 
 public class Ej2 {
     public static void main(String[] args) {
