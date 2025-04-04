@@ -1,3 +1,6 @@
+.gitignore
+.git
+.idea
 .DS_Store
 paradigmas/.DS_Store
 prog2/.DS_Store
