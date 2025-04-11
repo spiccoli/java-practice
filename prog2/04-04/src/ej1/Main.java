@@ -16,14 +16,30 @@ public class Main {
         String director = sc.nextLine();
         System.out.println("Enter movie year: ");
         int year = sc.nextInt();
+        Movie[] movies = null;
+        while(true){
+            Movie myMovie = new Movie(name, actor, director, year);
+            System.out.println("Movie created successfully: " + myMovie.getTitle()
+                    + " " + myMovie.getActor()
+                    + " " + myMovie.getDirector()
+                    + " " + myMovie.getYear()
+            );
+            System.out.println("If you want to stop adding movies, please enter number 0: ");
+            int number = sc.nextInt();
+            if(number == 0){
+                break;
+            }
+        }
 
-        Movie myMovie = new Movie(name, actor, director, year);
-        System.out.println("Movie created successfully: " + myMovie.getTitle()
-                                                    + " " + myMovie.getActor()
-                                                    + " " + myMovie.getDirector()
-                                                    + " " + myMovie.getYear()
-        );
+        System.out.println("Enter movie title to look for:");
+        String title = sc.nextLine();
+
+        Movie movieFound = Movie.searchByTitle(movies, title);
+        if(movieFound == null){
+            System.out.println("Movie not found");
+        } else {
+            System.out.println("Movie found:");
+            movieFound.printDetails();
+        }
     }
-
-
 }
