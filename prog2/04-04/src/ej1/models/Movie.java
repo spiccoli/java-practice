@@ -44,4 +44,19 @@ public class Movie {
     public void setYear(int year) {
         this.year = year;
     }
+
+    public void printDetails() {
+        System.out.println("Title: " + this.title);
+    }
+
+    public static Movie searchByTitle(Movie[] movies, String title) {
+        Movie result = null;
+        for (int i = 0; i < movies.length; i++) {
+            if(movies[i].title.equalsIgnoreCase(title)){
+                result = movies[i];
+                break;
+            }
+        }
+        return result;
+    }
 }
