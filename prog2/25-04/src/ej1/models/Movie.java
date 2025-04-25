@@ -5,18 +5,31 @@ public class Movie {
     private String actor;
     private Director director;
     private int year;
+    private String category;
 
     public Movie(String title, String actor, Director director, int year) {
         this.title = title;
         this.actor = actor;
         this.director = director;
         this.year = year;
+        setCategory(year);
+
+    }
+
+    public String getCategory() {
+        return category;
+    }
+    public void setCategory(int year) {
+        if (year >= 2000){
+            this.category = "Contemporary";
+        }else{
+            this.category = "Retro";
+        }
     }
 
     public Director getDirector() {
         return director;
     }
-
     public void setDirector(Director director) {
         this.director = director;
     }
@@ -24,7 +37,6 @@ public class Movie {
     public String getTitle() {
         return title;
     }
-
     public void setTitle(String title) {
         this.title = title;
     }
@@ -32,7 +44,6 @@ public class Movie {
     public String getActor() {
         return actor;
     }
-
     public void setActor(String actor) {
         this.actor = actor;
     }
@@ -50,6 +61,7 @@ public class Movie {
         System.out.println("Title: " + this.title);
         System.out.println("Actor: " + this.actor);
         System.out.println("Year: " + this.year);
+        System.out.println("Category: " + this.category);
         this.director.printDetails();
     }
 
