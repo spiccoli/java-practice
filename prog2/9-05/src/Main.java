@@ -4,10 +4,8 @@ import java.util.Collections;
 public class Main {
     public static void main(String[] args) {
         ArrayList<Movie> myMovie = new ArrayList<Movie>();
-
         Movie movie1 = new Movie(44);
         myMovie.add(movie1);
-
         Movie movie2 = new Movie(50);
         myMovie.add(movie2);
 
