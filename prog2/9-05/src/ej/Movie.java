@@ -1,3 +1,5 @@
+package ej;
+
 public class Movie implements Comparable<Movie> {
 //Attributes.
     private int year;
@@ -16,6 +18,6 @@ public class Movie implements Comparable<Movie> {
 
     @Override
     public String toString() {
-        return "Movie(" + year + ")";
+        return "ej.Movie(" + year + ")";
     }
 }
